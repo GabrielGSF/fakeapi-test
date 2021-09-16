@@ -1,5 +1,5 @@
 {
-  "disciplinas": [
+  "livros": [
     { "id": 1, 
      "titulo": "Biblioteca de Almas", 
      "autor": "Ranson Riggs" },
