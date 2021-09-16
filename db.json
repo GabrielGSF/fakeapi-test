@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "disciplinas": [
+    { "id": 1, "titulo": "Programação Web Front-end", "codigo": "PWFE" },
+    { "id": 2, "titulo": "Programação Web Back-end", "codigo": "PWBE" },
+    { "id": 3, "titulo": "Banco de Dados", "codigo": "BCD" },
+    { "id": 4, "titulo": "Interfaces para Dispositivos Móveis", "codigo": "INDMO" }
+  ]
 }
