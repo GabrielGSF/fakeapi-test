@@ -1,19 +1,23 @@
 {
   "disciplinas": [
     { "id": 1, 
-     "titulo": "Programação Web Front-end", 
-     "codigo": "PWFE" },
+     "titulo": "Biblioteca de Almas", 
+     "autor": "Ranson Riggs" },
     
     { "id": 2, 
-     "titulo": "Programação Web Back-end", 
-     "codigo": "PWBE" },
+     "titulo": "Corte de Espinhos e Rosas", 
+     "autor": "Sarah J. Maas" },
     
     { "id": 3, 
-     "titulo": "Banco de Dados", 
-     "codigo": "BCD" },
+     "titulo": "O Nome do Vento", 
+     "autor": "Patrick Rothfuss" },
     
     { "id": 4, 
-     "titulo": "Interfaces para Dispositivos Móveis", 
-     "codigo": "INDMO" }
+     "titulo": "O Arconte", 
+     "autor": "Catherine Fisher" }
+    
+    { "id": 5, 
+     "titulo": "Eragon", 
+     "autor": "Christopher Paolini" }
   ]
 }
